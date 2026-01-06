@@ -29,7 +29,9 @@ The app features a **splash screen** and a **scrollable home page** showing all 
     ```bash
     flutter run
     
-## Screenshots
+## Video
+
+https://github.com/user-attachments/assets/32457929-0bef-4c1b-aa5b-8b4770f87414
 
 *Add screenshots here to showcase the UI.*
 
