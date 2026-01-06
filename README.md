@@ -46,7 +46,7 @@ flutter_bloc: ^9.1.1
 
 ```
 ## Project Structure
-
+```text
 lib/
 ├── main.dart         # Application entrypoint
 ├── features/         # Feature modules (e.g. news feature - data, domain, presentation)
